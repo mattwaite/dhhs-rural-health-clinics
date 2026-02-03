@@ -1,0 +1,8 @@
+# Generated data files
+data/
+pdf/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
